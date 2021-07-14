@@ -2,4 +2,4 @@
 
 Hola!
 
-Mi nombre es Armando Alducin ,sou Informático , me apasiona el desarrollo front end y el café !
+Mi nombre es Armando Alducin , Informático , me apasiona el desarrollo front end y el café !
